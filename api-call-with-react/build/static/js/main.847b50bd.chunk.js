@@ -1,0 +1,2 @@
+(this["webpackJsonphw-one"]=this["webpackJsonphw-one"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var l=t(0),r=t.n(l),a=t(2);var c=function(){return r.a.createElement("div",null,r.a.createElement("h1",null,"Help Seytech"),r.a.createElement("h3",null,"Home Work"),r.a.createElement("hr",null))};t.n(a).a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.847b50bd.chunk.js.map

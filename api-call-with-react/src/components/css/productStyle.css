@@ -1,0 +1,39 @@
+body{
+  margin:0px;
+}
+.container{
+  margin: 100px auto;
+  width:300px;
+}
+input{
+  box-sizing: border-box;
+  margin:10px;
+}
+
+
+.checkBox {
+  float: left;
+}
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width:245px;
+  margin-left: 10px;
+}
+th,td{
+  padding: 10px;
+  text-align: center;
+}
+th{
+  background-color: #a70000;
+  color:white;
+}
+tr:nth-child(even){
+  background-color: #e8e8e8;
+}
+tr:nth-child(odd){
+  background-color: white;
+}
+.red{
+  color: red;
+}
