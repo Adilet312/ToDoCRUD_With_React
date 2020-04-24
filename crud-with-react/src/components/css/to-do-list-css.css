@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.list-box ul li {
+  list-style-type: none;
+}
+.list-box ul li button {
+  margin: 2px;
+}
+.undo {
+  
+  color: red;
+}
+hr{
+  width:300px;
+}
+.active{
+  color:blue;
+}
+.sort-buttons button:hover{
+  color: lightgreen;
+
+}

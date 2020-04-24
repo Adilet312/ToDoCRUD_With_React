@@ -1,12 +1,12 @@
-# _To Do List With React_
+# _CRUD With React_
 
-#### _Version 04/20/2020_
+#### _Version 04/23/2020_
 
 #### By _**Adilet Momunaliev**_
 
 ## Description
 
-_call API and manipulate data in the browser dynamically with React ._
+_CRUD functionality with React ._
 
 ## Getting Started
 
@@ -21,9 +21,12 @@ These instructions will get you a copy of the project up and running on your loc
 * npm run start
 ### Specifications
 
-* A user can see list of products.
-* A user can can filter available products by marking check-box.
-* A user can search products.
+* A user can create.task
+* A user can delete task.
+* A user can cross out done tasks.
+* A user can filter completed tasks.
+* A user can filter not completed tasks.
+* A user can see all tasks.
 ## Technologies Used
 
 _HTML, CSS, JavaScript, React, IDE Atom_
