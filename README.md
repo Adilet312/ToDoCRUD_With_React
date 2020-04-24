@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Instruction
 
 * Node js in your local machine
-* git clone https://github.com/Adilet312/ApiCallWithReact.git
+* git clone https://github.com/Adilet312/ToDoCRUD_With_React.git
 * npm install
 * npm install react-webpack
 * npm run start
