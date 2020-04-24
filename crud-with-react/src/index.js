@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TaskControl from './components/TaskControl';
-//import App from './components/App';
+//import TaskControl from './components/TaskControl';
+import App from './components/App';
+
 
 
 
@@ -10,7 +11,7 @@ import TaskControl from './components/TaskControl';
 
 ReactDOM.render(
 
-  <TaskControl/>,
+  <App/>,
   document.getElementById('root')
 
 );
